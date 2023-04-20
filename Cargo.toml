@@ -2,7 +2,7 @@
 name = "bluer-talk"
 version = "0.1.0"
 edition = "2021"
-author = "Sebastian Urban <surban@surban.net>"
+authors = ["Sebastian Urban <surban@surban.net>"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
